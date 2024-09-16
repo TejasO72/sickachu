@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     static int add(int a, int b){
-        return a+b+120;
+        return a+b+10;
     }
 
     public static void main(String args[]) throws IOException{
